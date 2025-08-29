@@ -1,3 +1,4 @@
+package Part2;
 import javax.swing.*; import javax.swing.border.*; import java.awt.*;
 class SwingDemo2{
   public static void main(String[] a){
